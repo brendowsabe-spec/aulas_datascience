@@ -6,3 +6,9 @@ import numpy as np
 #git add main.py
 #git commit -m "importando bibliotecas python"
 #git push
+
+
+#git checkout -b "develop" (branch, ramificação)
+# retornar para ramificação = git checkout master
+
+print('Trabalhando da develop')
